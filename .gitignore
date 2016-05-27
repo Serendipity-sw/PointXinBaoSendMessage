@@ -1,0 +1,6 @@
+PointXinBaoSendMessage
+PointXinBaoSendMessage.exe
+PointXinBaoSendMessage.pid
+PointXinBaoSendMessage\.*
+jstmp/*
+/.idea

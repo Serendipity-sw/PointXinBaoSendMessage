@@ -1,0 +1,9 @@
+{
+  "port":8001,
+  "rootprefix":"",
+  "smspassword": "",
+  "sendMessageUrl": "",
+  "doublekill":"",
+  "addflow":"",
+  "notepadProcessDir":"./NotepadProcess"
+}
