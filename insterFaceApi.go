@@ -12,7 +12,7 @@ import (
 	"time"
 )
 /**
-点信网接口请求返回结构体
+接口请求返回结构体
  */
 type PointXinBaoApiData struct  {
 	State string //接口请求状态 success表示成功 其他为失败

@@ -21,10 +21,10 @@ var (
 	configFn                                    = flag.String("config", "./config.json", "config file path")
 	debugFlag                                   = flag.Bool("d", false, "debug mode")
 	rt                                   *gin.Engine
-addflow string //点信网获取手机号码对应连接接口地址
+addflow string //获取手机号码对应连接接口地址
 	smspassword string //短信发送密码
 	sendMessageUrl string //短信发送接口地址
-	doublekill string //追销点信网获取手机号码对应连接接口地址
+	doublekill string //追销获取手机号码对应连接接口地址
 	notepadProcessDir string //监控目标文件夹地址
 )
 
